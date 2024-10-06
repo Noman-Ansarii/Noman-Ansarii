@@ -1,20 +1,17 @@
-<h1 align="center">👋 Hello, I'm Noman Ansari!
-<hr /></h1>
-<p align="center">
+<h1 align="center">👋 Hello, I'm Noman Ansari!<br /></h1>
+<!-- <p align="center">
   <img src="https://github.com/yourname/yourusername/blob/main/header-image.png" alt="Header Image">
-</p>
+</p> -->
 
 <p align="center">
   A dedicated developer that specializes in developing full-stack web apps with the latest technologies such as <strong>MERN Stack</strong>, <strong>Next.js</strong>, <strong>SQL</strong>, and <strong>PostgreSQL</strong>. Always willing to learn new skills and contribute to important projects.
 </p>
 <p align="center">
 <a href="https://noman-infos.vercel.app" rel="nofollow"><img alt="" src="https://camo.githubusercontent.com/9f3ecaf99d92830c05cab8f2f613d8710f3c8269c3fc8ea426f59647a4544f49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3030303f6c6f676f3d76657263656c266c6f676f436f6c6f723d79656c6c6f77267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Portfolio-000?logo=vercel&amp;logoColor=yellow&amp;style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/VishwaGauravIn" rel="nofollow"><img alt="" src="https://camo.githubusercontent.com/b5f5d38a5e6ae2567ab731fae1c4c6a4267aba39ba7356b5a0009d2363db945d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030303f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304136364332267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&amp;logoColor=0A66C2&amp;style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://instagram.com/VishwaGauravIn" rel="nofollow"><img alt="" src="https://camo.githubusercontent.com/4211a7284cc10a3f40367264db70c9a60a6603b4ca291e0ecf658449592c8e87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d453434303546" data-canonical-src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&amp;logo=Instagram&amp;logoColor=E4405F" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/noman-ansari-15237028a/" rel="nofollow"><img alt="" src="https://camo.githubusercontent.com/b5f5d38a5e6ae2567ab731fae1c4c6a4267aba39ba7356b5a0009d2363db945d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030303f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d304136364332267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&amp;logoColor=0A66C2&amp;style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/inomanansari" rel="nofollow"><img alt="" src="https://camo.githubusercontent.com/4211a7284cc10a3f40367264db70c9a60a6603b4ca291e0ecf658449592c8e87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d453434303546" data-canonical-src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&amp;logo=Instagram&amp;logoColor=E4405F" style="max-width: 100%;"></a>
+  <a href="https://www.facebook.com/profile.php?id=100018035178162" rel="nofollow"><img alt="" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook" style="max-width: 100%;"></a>
 </p>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018035178162) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iNomanAnsari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-ansari-15237028a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iNomanAnsarii) 
 
 ## Tech Stack 💻
 #### Languages
