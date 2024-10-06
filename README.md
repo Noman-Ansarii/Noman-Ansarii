@@ -1,4 +1,3 @@
-<main align="center">
 <h1 align="center">👋 Hello, I'm Noman Ansari!<br /></h1>
 <!-- <p align="center">
   <img src="https://github.com/yourname/yourusername/blob/main/header-image.png" alt="Header Image">
@@ -96,4 +95,3 @@ and too many...
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-Ansarii&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-</main>
