@@ -7,7 +7,7 @@
 A dedicated and versatile full-stack developer with expertise in MERN Stack, Next.js, and PostgreSQL, combined with advanced experience in Redis, Prisma, GraphQL, and tRPC. Skilled in building high-performance, scalable web applications with modern tools like Tailwind CSS, Docker, and Stripe integrations. Continuously learning and integrating emerging technologies such as Supabase, Plausible Analytics, and AI agents like Gumloop, with a strong focus on developer experience, performance, and impactful solutions.
 </p>
 <p align="center">
-<a href="https://noman.uno">
+<a href="https://nomanansari.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" alt="Portfolio" />
 </a>
 
