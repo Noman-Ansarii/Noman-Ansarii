@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Noman Ansari!<br /></h1>
+<h1 align="center">👋 Hello, I'm Noman!<br /></h1>
 <!-- <p align="center">
   <img src="https://github.com/yourname/yourusername/blob/main/header-image.png" alt="Header Image">
 </p> -->
